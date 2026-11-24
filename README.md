@@ -1,10 +1,12 @@
-# Hi, I’m Wyatt.
+# Wyatt Fleming
 
-I lead product work at Treeline Interactive and build software of my own under Endpaper Labs.
+I’m Wyatt. I lead product work at Treeline Interactive and build software of my own under Endpaper Labs.
 
-- **Play a game.** I built Neon Command, a tower defense game that runs entirely in the browser, with Rust, Bevy, and WebAssembly. [Play Neon Command](https://td.wyatt-fleming.com/) · [Read the source](https://github.com/wyattf1995/rust-td)
-- **Bring a photo frame back to life.** I repurposed a discontinued Lenovo Smart Frame to display photos from Immich. Tracking down why a 1080p panel looked blurry was part of the fun. [Read the build story](https://wyatt-fleming.com/posts/lenovo-smart-frame-home-assistant-immich-gestures) · [Explore Immich Smart Frame](https://github.com/wyattf1995/immich-smart-frame)
-- **Track clue gear in Old School RuneScape.** I maintain STASH Ledger, a RuneLite plugin that shows which storage units you’ve built and what you’ve confirmed is inside. [Explore STASH Ledger](https://github.com/wyattf1995/runelite-stash-ledger)
+For something you can play in a minute, try **Neon Command**, my Rust tower-defense game. [Play in your browser](https://td.wyatt-fleming.com/) · [Read the source](https://github.com/wyattf1995/rust-td)
+
+For a look at how I debug hardware and software together, start with **Immich Smart Frame**. I turned a discontinued Lenovo display into a self-hosted photo frame and tracked a blurry 1080p picture down to a 960×540 image request. [Read the build story](https://wyatt-fleming.com/posts/lenovo-smart-frame-home-assistant-immich-gestures) · [Explore the repository](https://github.com/wyattf1995/immich-smart-frame)
+
+For a project I maintain in an established open-source community, see **STASH Ledger**. It helps Old School RuneScape players keep track of the clue gear they’ve stored. [Explore the RuneLite plugin](https://github.com/wyattf1995/runelite-stash-ledger)
 
 I also built **Verdict**, a daily logic puzzle whose solver checks that each puzzle has exactly one solution, and **Focus Graphics**, the software a print shop uses to manage quotes, proofs, invoices, and production. [Verdict case study](https://wyatt-fleming.com/projects/verdict) · [Focus Graphics case study](https://wyatt-fleming.com/projects/focus-graphics)
 
